@@ -1,4 +1,4 @@
-# Simple mp3-player
+# App Mp3
 ![](docs/Screenshot.png)<br>
 Task: combining pygame and PyQt5 in Python3.<br>
 Gui powered by PyQt5.<br>
